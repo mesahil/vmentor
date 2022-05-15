@@ -1,0 +1,19 @@
+.nav{
+    background-color: whitesmoke;
+    position:fixed;
+    top:0;
+    left:0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav img{
+    width:15em;
+}
+
+.navLink > a{
+    text-decoration: none;
+    color: Black;
+    font-weight: 600;
+}
